@@ -1,4 +1,8 @@
-# DSDeaths
+# Dark Souls Death Counter (fork of Quidrex/DSDeaths)
+
+More information coming soon...
+
+(Original README)
 
 ## What is this and what is it good for?
 
